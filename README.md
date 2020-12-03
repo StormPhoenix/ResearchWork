@@ -1,9 +1,16 @@
 ## Image Processing
 
-- [ ] [[SIGGRAPH 2001] Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
+- [x] [[SIGGRAPH 2001] Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
+
+- [ ] [[ACM 2003] Graphcut Textures: Image and Video Synthesis Using Graph Cuts](https://www.cc.gatech.edu/~turk/my_papers/graph_cuts.pdf)
 
 - [ ] [[SIGGRAPH 2007] Seam Carving for Content-aware Image Resizing](http://graphics.cs.cmu.edu/courses/15-463/2013_fall/hw/proj3-seamcarving/imret.pdf)
 
+## Texture Reconstruction
+
+- [x] [[IEEE 2007] Seamless Mosaicing of Image-Based Texture Maps](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Lempitsky07.pdf)
+
+- [ ] [[ECCV 2014] Let There Be Color! Large-Scale Texturing of 3D Reconstructions](https://www.gcc.tu-darmstadt.de/media/gcc/papers/Waechter-2014-LTB.pdf)
 
 ## Others
 
