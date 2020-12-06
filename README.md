@@ -4,6 +4,8 @@
 
 - [ ] [[ACM 2003] Graphcut Textures: Image and Video Synthesis Using Graph Cuts](https://www.cc.gatech.edu/~turk/my_papers/graph_cuts.pdf)
 
+- [ ] [[ACM 2003] Poisson image editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
+
 - [ ] [[SIGGRAPH 2007] Seam Carving for Content-aware Image Resizing](http://graphics.cs.cmu.edu/courses/15-463/2013_fall/hw/proj3-seamcarving/imret.pdf)
 
 ### Texture Reconstruction
