@@ -1,3 +1,6 @@
+### Rendering
+- [x] [Physically based renderer - kaguya](https://github.com/StormPhoenix/kaguya)
+
 ### Image Synthesis
 
 - [x] [[SIGGRAPH 2001] Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
