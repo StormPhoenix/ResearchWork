@@ -17,6 +17,9 @@
 
 - [x] [[ECCV 2014] Let There Be Color! Large-Scale Texturing of 3D Reconstructions](https://www.gcc.tu-darmstadt.de/media/gcc/papers/Waechter-2014-LTB.pdf)
 
+### Graphical Model
+
+- [x] [Loopy Belief Propagation](http://6.869.csail.mit.edu/fa13/lectures/slideNotesCh7rev.pdf)
 ### Others
 
 - [ ] [[PAMI 2001] Fast Approximate Energy Minimization via Graph Cuts](http://www.cs.cornell.edu/rdz/Papers/BVZ-iccv99.pdf)
