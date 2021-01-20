@@ -1,7 +1,16 @@
-### Rendering
+## Sampling Theorem
+
+- [ ] [Enumerating Quasi-Monte Carlo Point Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-enum.pdf?origin=publication_detail)
+
+- [ ] [Chinese Remainder Theorem](https://zhuanlan.zhihu.com/p/318188916)
+
+## Rendering
 - [x] [Physically based renderer - kaguya](https://github.com/StormPhoenix/kaguya)
 
-### Image Synthesis
+##### BSSRDF
+- [ ] Wave propagation and scattering in random media by Akira Ishimaru Volume 1
+
+## Image Synthesis
 
 - [x] [[SIGGRAPH 2001] Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
 
@@ -11,16 +20,16 @@
 
 - [ ] [[SIGGRAPH 2007] Seam Carving for Content-aware Image Resizing](http://graphics.cs.cmu.edu/courses/15-463/2013_fall/hw/proj3-seamcarving/imret.pdf)
 
-### Texture Reconstruction
+## Texture Reconstruction
 
 - [x] [[IEEE 2007] Seamless Mosaicing of Image-Based Texture Maps](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Lempitsky07.pdf)
 
 - [x] [[ECCV 2014] Let There Be Color! Large-Scale Texturing of 3D Reconstructions](https://www.gcc.tu-darmstadt.de/media/gcc/papers/Waechter-2014-LTB.pdf)
 
-### Graphical Model
+## Graphical Model
 
 - [x] [Loopy Belief Propagation](http://6.869.csail.mit.edu/fa13/lectures/slideNotesCh7rev.pdf)
-### Others
+
+- [ ] [Convergent tree-reweighted message passing for energy minimization](http://www.gatsby.ucl.ac.uk/aistats/fullpapers/113.pdf)
 
 - [ ] [[PAMI 2001] Fast Approximate Energy Minimization via Graph Cuts](http://www.cs.cornell.edu/rdz/Papers/BVZ-iccv99.pdf)
-
