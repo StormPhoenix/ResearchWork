@@ -10,6 +10,12 @@
 ##### BSSRDF
 - [ ] Wave propagation and scattering in random media by Akira Ishimaru Volume 1
 
+- [ ] [[SIGGRAPH 2001] A Practical Model for Subsurface Light Transport](https://graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
+
+- [ ] [[Eurographics 1995] Multiple scattering as a diffusion process](https://www.researchgate.net/publication/2371775_Multiple_Scattering_as_a_Diffusion_Process)
+
+- [ ] [[SIGGRAPH 1984] Ray Tracing Volume Densities](https://www.researchgate.net/publication/234800181_Ray_Tracing_Volume_Densities)
+
 ## Image Synthesis
 
 - [x] [[SIGGRAPH 2001] Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
