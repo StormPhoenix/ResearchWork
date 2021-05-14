@@ -7,6 +7,9 @@
 ## Rendering
 - [x] [Physically based renderer - kaguya](https://github.com/StormPhoenix/kaguya)
 
+##### Microfacet
+- [x] [[EGSR 2007] Microfacet Models for Refraction through Rough Surfaces](http://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
+
 ##### BSSRDF
 - [ ] Wave propagation and scattering in random media by Akira Ishimaru Volume 1
 
